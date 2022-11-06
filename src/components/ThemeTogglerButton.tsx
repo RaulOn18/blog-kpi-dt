@@ -49,7 +49,7 @@ export default function ThemeTogglerButton() {
               checked ? "bg-white text-black" : ""
             } cursor-pointer rounded-3xl p-2`}
             onClick={toggleTheme}
-            aria-label="Toggle theme"
+            aria-labelledby="Toggle Theme"
           >
             {t === "light" ? <IoSunny /> : <IoMoon />}
           </button>

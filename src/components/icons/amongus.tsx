@@ -4,7 +4,7 @@ export default function Amongus() {
   return (
     <svg
       className="inline-block transition-transform group-hover:rotate-[20deg]"
-      fill="#000000"
+      fill="currentcolor"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 30 30"
       width="30px"
