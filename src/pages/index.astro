@@ -7,6 +7,13 @@ import Body from "../components/Body.astro";
 import Content from "../components/Content.astro";
 import { IoArrowForward } from "react-icons/io5";
 import Masthead from "../components/Masthead.astro";
+import { Image } from "@astrojs/image/components";
+
+const posts = (await Astro.glob("./posts/*.md")).sort(
+  (a: any, b: any) =>
+    new Date(b.frontmatter.createdAt).valueOf() -
+    new Date(a.frontmatter.createdAt).valueOf()
+);
 ---
 
 <!DOCTYPE html>
@@ -21,7 +28,7 @@ import Masthead from "../components/Masthead.astro";
       <Content>
         <section>
           <p class="mb-8 indent-4">
-            Blog website ini dibuat untuk semua angkatan KPI STAI Daarut Tauhiid
+            Website ini dibuat untuk semua angkatan KPI STAI Daarut Tauhiid
             untuk menyimpan semua hasil karya-karya mereka maupun itu tulisan,
             video, dan gambar, semoga website ini bisa dikembangkan lebih lanjut
             bersama-sama teman KPI, dan semoga website ini menjadi jalan kami
@@ -35,6 +42,28 @@ import Masthead from "../components/Masthead.astro";
               />
             </a>
           </p>
+        </section>
+        <section>
+          <ul class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {
+              posts.map((post) => (
+                <li class="text-center mb-4">
+                  <a href={post.url}>
+                    <Image
+                      class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+                      src={post.frontmatter.heroImage}
+                      width={720 * 2}
+                      format="jpg"
+                      aspectRatio={2}
+                      alt={post.frontmatter.heroImage}
+                    />
+                    <div class="mt-3 text-xl">{post.frontmatter.title}</div>
+                    <div class="opacity-70">{post.frontmatter.description}</div>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
         </section>
       </Content>
     </main>
