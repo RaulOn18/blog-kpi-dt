@@ -4,6 +4,15 @@ import { HOMEPAGE_URL, SITE_TITLE } from "../config";
 import { IoLogoGithub, IoLogoInstagram } from "react-icons/io5";
 import Amongus from "./icons/amongus";
 import ThemeTogglerButton from "./ThemeTogglerButton";
+import DropdownMenu from "./DropdownMenu";
+
+const allPosts = await Astro.glob("../pages/posts/*.md");
+const allTags = new Set<string>();
+
+allPosts.map((post) => {
+  post.frontmatter.tags &&
+    post.frontmatter.tags.map((tag: string) => allTags.add(tag));
+});
 ---
 
 <header class="fixed w-full p-2 z-20 backdrop-blur-md">
@@ -17,15 +26,16 @@ import ThemeTogglerButton from "./ThemeTogglerButton";
       </a>
       <div class="items-center gap-6 hidden md:flex">
         <HeaderLink href={HOMEPAGE_URL}>About</HeaderLink>
-        <HeaderLink href="https://twitter.com/astrodotbuild" target="_blank"
+        <HeaderLink href="https://www.instagram.com/itskpi21_/" target="_blank"
           ><IoLogoInstagram />Instagram</HeaderLink
         >
-        <HeaderLink href="https://github.com/withastro/astro" target="_blank"
+        <HeaderLink href="https://github.com/RaulOn18/" target="_blank"
           ><IoLogoGithub /> Source</HeaderLink
         >
       </div>
       <div class="flex-1"></div>
-      <ThemeTogglerButton client:load />
+      <ThemeTogglerButton client:visible />
+      <DropdownMenu client:visible tags={Array.from(allTags)} />
     </nav>
   </div>
 </header>
