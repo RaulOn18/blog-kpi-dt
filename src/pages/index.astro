@@ -53,7 +53,7 @@ const posts = (await Astro.glob("./posts/*.md")).sort(
                       class="border border-slate-300 dark:border-zinc-700 rounded-xl"
                       src={post.frontmatter.heroImage}
                       width={720 * 2}
-                      format="jpg"
+                      format="webp"
                       aspectRatio={2}
                       alt={post.frontmatter.heroImage}
                     />
