@@ -4,6 +4,7 @@ title: "Tantangan dan Peluang dalam Berdakwah Menggunakan Media Baru atau Media 
 description: "Sulit kah berdakwah dengan media baru?"
 slug: "tantangan-dan-peluang-dalam-berdakwah-menggunakan-media-baru"
 pubDate: "10 November 2022"
+author: "Radja Fajrul Ghufron"
 tags:
   - Opini
 heroImage: "/post/media-baru.jpg"

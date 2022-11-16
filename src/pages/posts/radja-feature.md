@@ -4,6 +4,7 @@ title: "Hidup Merupakan Perjalanan dan Perjuangan"
 description: "Perjuangan hidup"
 slug: "hidup-merupakan-perjalanan-dan-perjuangan"
 pubDate: "11 November 2022"
+author: "Radja Fajrul Ghufron"
 tags:
   - Feature
 heroImage: "/post/masjid-dt-bandung.jpeg"
