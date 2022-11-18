@@ -7,7 +7,7 @@ import addClasses from "rehype-add-classes";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://daaruttauhiid.kpi.com",
+  site: "https://helvetica-blog.vercel.app",
   integrations: [sitemap(), react(), image(), tailwind()],
   markdown: {
     extendDefaultPlugins: true,
