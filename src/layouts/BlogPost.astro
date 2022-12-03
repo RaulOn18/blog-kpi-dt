@@ -4,12 +4,15 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Body from '../components/Body.astro';
 import Content from '../components/Content.astro';
+import { IoLogoInstagram } from "react-icons/io5/index.js";
 import { Image } from '@astrojs/image/components';
 
 export interface Props {
 	content: {
 		title: string;
 		description: string;
+		author: string;
+		urlIG?: string;
 		pubDate?: string;
 		updatedDate?: string;
 		heroImage?: string;
@@ -17,7 +20,7 @@ export interface Props {
 }
 
 const {
-	content: { title, description, pubDate, updatedDate, heroImage },
+	content: { title, description, pubDate, updatedDate, heroImage, author, urlIG },
 } = Astro.props;
 ---
 
@@ -34,14 +37,21 @@ const {
         <div class="mb-8">
           {heroImage && <Image class="border border-slate-300 dark:border-zinc-700 rounded-xl" width={720} height={360} format="jpg" src={heroImage} alt={title}  />}
          </div>
-          <h1 class="text-3xl my-1 font-mplus">{title}</h1>
-          <div>{description}</div>
+		 <h1 class="text-3xl my-1 font-mplus">{title}</h1>
+		 <div class="flex place-items-end justify-between">
+			<div>
+          <div>{author}</div>
           {pubDate && <time>{pubDate}</time>}
           {updatedDate && (
             <div>
               Last updated on <time>{updatedDate}</time>
             </div>
           )}
+		  </div>
+		  <div>
+			<a class="inline-flex text-xl" href={urlIG}><IoLogoInstagram className="hover:scale-150 transition hover:text-orange-700" /></a>
+		  </div>
+		  </div>
         <hr  class="border-top border-zinc-400 my-4"/>
         <slot />
         <span class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"></span>
