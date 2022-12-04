@@ -39,9 +39,9 @@ const {
          </div>
 		 <h1 class="text-3xl my-1 font-mplus">{title}</h1>
 		 <div class="flex place-items-end justify-between">
-			<div>
+			<div class="opacity-70">
           <div>{author}</div>
-          {pubDate && <time>{pubDate}</time>}
+          {pubDate && <time class="text-sm">{pubDate}</time>}
           {updatedDate && (
             <div>
               Last updated on <time>{updatedDate}</time>
@@ -49,7 +49,7 @@ const {
           )}
 		  </div>
 		  <div>
-			<a class="inline-flex text-xl" href={urlIG}><IoLogoInstagram className="hover:scale-150 transition hover:text-orange-700" /></a>
+			<a class="inline-flex text-xl cursor-pointer" target="_blank" href={urlIG}><IoLogoInstagram className="hover:scale-150 transition hover:text-orange-700" /></a>
 		  </div>
 		  </div>
         <hr  class="border-top border-zinc-400 my-4"/>
