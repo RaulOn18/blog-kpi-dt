@@ -1,4 +1,4 @@
-# Astro Starter Kit: Blog
+# Helvetica-Blog
 
 ```
 npm create astro@latest -- --template blog
