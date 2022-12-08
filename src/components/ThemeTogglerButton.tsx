@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { IoSunny, IoMoon } from "react-icons/io5/index.js";
+import React, { useEffect, useState } from "react";
+import { IoMoon, IoSunny } from "react-icons/io5/index.js";
 
 const themes = ["light", "dark"];
 
@@ -37,26 +37,26 @@ export default function ThemeTogglerButton() {
     setIsMounted(true);
   }, []);
 
-  return isMounted ? (
-    <div className="inline-flex items-center p-[1px] rounded-3xl bg-orange-300 dark:bg-zinc-600">
-      {themes.map((t) => {
-        const checked = t === theme;
-        return (
-          <button
-            type="button"
-            key={t}
-            className={`${
-              checked ? "bg-white text-black" : ""
-            } cursor-pointer rounded-3xl p-2`}
-            onClick={toggleTheme}
-            aria-labelledby="Toggle Theme"
-          >
-            {t === "light" ? <IoSunny /> : <IoMoon />}
-          </button>
-        );
-      })}
-    </div>
-  ) : (
-    <div />
-  );
+  return isMounted
+    ? (
+      <div className="inline-flex items-center p-[1px] rounded-3xl bg-orange-300 dark:bg-zinc-600">
+        {themes.map((t) => {
+          const checked = t === theme;
+          return (
+            <button
+              type="button"
+              key={t}
+              className={`${
+                checked ? "bg-white text-black" : ""
+              } cursor-pointer rounded-3xl p-2`}
+              onClick={toggleTheme}
+              aria-labelledby="Toggle Theme"
+            >
+              {t === "light" ? <IoSunny /> : <IoMoon />}
+            </button>
+          );
+        })}
+      </div>
+    )
+    : <div />;
 }
