@@ -2,4 +2,20 @@
   class="bg-orange-50 dark:bg-zinc-900 text-zinc-900 dark:text-zinc-300 break-words leading-6 transition-colors duration-500"
 >
   <slot />
+  <script>
+    declare global {
+      interface Window {
+        netlifyIdentity: any;
+      }
+    }
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", (user: any) => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
