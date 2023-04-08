@@ -13,7 +13,7 @@ export interface Props {
 		description: string;
 		author: string;
 		urlIG?: string;
-		pubDate?: Date;
+		pubDate?: string;
 		updatedDate?: string;
 		heroImage?: string;
 	};
@@ -22,6 +22,7 @@ export interface Props {
 const {
 	content: { title, description, pubDate, updatedDate, heroImage, author, urlIG },
 } = Astro.props;
+const pubDateObj = pubDate ? new Date(pubDate) : null; // buat objek Date baru
 ---
 
 <!DOCTYPE html>
@@ -41,7 +42,7 @@ const {
 		 <div class="flex place-items-end justify-between">
 			<div class="opacity-70">
           <div>{author}</div>
-          {pubDate && <time class="text-sm">{pubDate.toDateString()}</time>}
+          {pubDateObj && <time class="text-sm">{pubDateObj.toDateString()}</time>}
           {updatedDate && (
             <div>
               Last updated on <time>{updatedDate}</time>
