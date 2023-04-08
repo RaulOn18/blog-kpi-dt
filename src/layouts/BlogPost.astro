@@ -13,7 +13,7 @@ export interface Props {
 		description: string;
 		author: string;
 		urlIG?: string;
-		pubDate?: string;
+		pubDate?: Date;
 		updatedDate?: string;
 		heroImage?: string;
 	};
@@ -41,7 +41,7 @@ const {
 		 <div class="flex place-items-end justify-between">
 			<div class="opacity-70">
           <div>{author}</div>
-          {pubDate && <time class="text-sm">{pubDate}</time>}
+          {pubDate && <time class="text-sm">{pubDate.toDateString()}</time>}
           {updatedDate && (
             <div>
               Last updated on <time>{updatedDate}</time>
