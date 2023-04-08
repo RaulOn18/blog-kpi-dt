@@ -2,9 +2,13 @@
 layout: ../../layouts/BlogPost.astro
 title: Testing with CMS
 description: halo ini testing hehe alhamdulillah bisa
-pubDate: 2023-04-07T10:44:14.893Z
-heroImage: /post/asset-1-4x.png
+slug: "tantangan-dan-peluang-dalam-berdakwah-menggunakan"
+pubDate: "8 April 2023"
+author: "Radja Fajrul Ghufron"
 urlIG: https://instagram.com/raulon__
+tags:
+  - Opini
+heroImage: /post/asset-1-4x.png
 ---
 l﻿aksjdlkajsdlasd
 
