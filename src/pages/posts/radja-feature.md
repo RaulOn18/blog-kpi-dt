@@ -3,7 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Hidup Merupakan Perjalanan dan Perjuangan"
 description: "Perjuangan hidup"
 slug: "hidup-merupakan-perjalanan-dan-perjuangan"
-pubDate: "11 November 2022"
+pubDate: 2022-08-11T05:57:59.858Z
 author: "Radja Fajrul Ghufron"
 urlIG: "https://www.instagram.com/raulon__"
 tags:

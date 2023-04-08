@@ -3,7 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Tantangan dan Peluang dalam Berdakwah Menggunakan Media Baru atau Media Sosial"
 description: "Sulit kah berdakwah dengan media baru?"
 slug: "tantangan-dan-peluang-dalam-berdakwah-menggunakan-media-baru"
-pubDate: "10 November 2022"
+pubDate: 2022-08-08T05:57:59.858Z
 author: "Radja Fajrul Ghufron"
 urlIG: "https://www.instagram.com/raulon__"
 tags:
