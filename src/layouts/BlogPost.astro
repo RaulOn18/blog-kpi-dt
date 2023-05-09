@@ -36,7 +36,7 @@ const pubDateObj = pubDate ? new Date(pubDate) : null; // buat objek Date baru
 		<main class="pt-[56px]">
       <Content className="pt-6">
         <div class="mb-8">
-          {heroImage && <Image class="border border-slate-300 bg-cover object-cover dark:border-zinc-700 rounded-xl" width={720} height={360} format="jpg" src={heroImage} alt={title}  />}
+          {heroImage && <Image class="border border-slate-300 bg-cover object-cover w-full h-full dark:border-zinc-700 rounded-xl" width={720} height={360} format="jpg" src={heroImage} alt={title}  />}
          </div>
 		 <h1 class="text-3xl my-1 font-mplus">{title}</h1>
 		 <div class="flex place-items-end justify-between">
