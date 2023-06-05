@@ -10,13 +10,13 @@ tags:
   - OPINI
 heroImage: /post/media-baru.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ heroImage: /post/media-baru.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -636,9 +636,9 @@ heroImage: /post/media-baru.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ heroImage: /post/media-baru.jpg
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -684,6 +684,6 @@ Lalu bagaimana cara belajar Tahsin? Sebagian besar orang yang ingin belajar Al-Q
 
 Apakah belajar Tahsin itu efektif? Ada banyak pendapat tentang keefektifan belajar tahsin lewat media sosial. Salah satu pendapat menyebutkan bahwa belajar Tahsin bisa dilakukan secara *offline* maupun *online*, tergantung ketersediaan waktu.
 
-Ada pula yang beranggapan bahwa belajar lewat media sosial itu kurang efektif dibanding belajar tatap muka. Tetapi, semuanya tergantung pada niat. Baik pembelajaran *offline* atau *online*, masing-masing memiliki kelebihan dan kekurangannya.
+Ada pula yang beranggapan bahwa belajar lewat media sosial itu kurang efektif dibanding belajar tatap muka. Tetapi, semuanya tergantung pada niat. Baik pembelajaran *offline* atau *online*, masing-masing memiliki kelebihan dan kekurangan.
 
 <!--EndFragment-->
