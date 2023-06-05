@@ -1,11 +1,9 @@
 ---
 layout: ../../layouts/BlogPost.astro
 title: Takdir Indah yang tak Terduga
-description: "Di lingkungan Daarut Tauhiid terdapat beberapa program pendidikan
+description: Di lingkungan Daarut Tauhiid terdapat beberapa program pendidikan
   pesantren non-formal, Daurah Qalbiyah salah satunya. Diadakan sebagai wadah
-  belajar bagi siapa saja yang berniat menata dan memperbaiki hati. Program yang
-  berada dalam naungan Yayasan Daarut Tauhiid  Rahmatan Lil ‘Alamiin ini
-  berlangsung selama satu bulan. "
+  belajar bagi siapa saja yang berniat menata dan memperbaiki hati.
 slug: rahma-daurah-qalbiyah
 pubDate: 2023-05-01T00:00:26.006Z
 author: "FEATURE oleh Rahma Seftiani Fauzia, Mahasiswa Prodi KPI STAI Daarut Tauhiid "
