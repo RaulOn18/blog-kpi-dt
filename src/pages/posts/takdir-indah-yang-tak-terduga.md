@@ -8,7 +8,8 @@ description: "Di lingkungan Daarut Tauhiid terdapat beberapa program pendidikan
   berlangsung selama satu bulan. "
 slug: rahma-daurah-qalbiyah
 pubDate: 2023-05-01T00:00:26.006Z
-author: Rahma Seftiani Fauzia
+author: FEATURE oleh Rahma Seftiani Fauzia, Mahasiswa Prodi KPI STAI Daarut
+  Tauhiid NIM 1220210040
 tags:
   - FEATURE
 heroImage: /post/rahma-feature.jpg
