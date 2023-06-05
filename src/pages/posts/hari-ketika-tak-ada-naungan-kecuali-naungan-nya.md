@@ -11,13 +11,13 @@ tags:
   - OPINI
 heroImage: /post/img_20190907_144415.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ heroImage: /post/img_20190907_144415.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ heroImage: /post/img_20190907_144415.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ heroImage: /post/img_20190907_144415.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -674,13 +674,11 @@ Malam itu terdengar suara yang begitu indah mengisi keheningan malam dengan lant
 
 Syarif merupakan salah satu siswa yang kesehariannya selalu berada di masjid. Di saat pagi hari, dia bersekolah di dalam masjid. Malamnya pun ia tidur atau beristirahat di masjid. Tentu saja Syarif tidak menjadikan masjid sebagai tempat ia tidur saja. Setiap shalat lima waktu tiba, Syariflah yang selalu mengumandangkan adzan. Di saat pagi hari atau sore hari, ketika masjid sepi, dialah yang selalu membersihkan masjid dengan cara menyapu dan mengepel lantainya.
 
-Bila ditanya mengapa Syarif sangat terikat hatinya kepada masjid, maka jawabannya terletak pada hadits Nabi yang berbunyi:
+Bila ditanya mengapa Syarif sangat terikat hatinya kepada masjid, maka jawabannya terletak pada hadits Nabi b:erikut ini:
 
 Abu Hurairah meriwayatkan dari Rasulullah Saw, sesungguhnya beliau bersada : ” Ada tujuh golongan yang akan  dinaung**i** Allah di bawah naungan-Nya pada hari yang tiada naungan lain selain naungan-Nya, yaitu : (1). Pemimpin yang adil dan jujur, (2). Seorang lelaki betemu seorang perempuan cantik dan berpangkat lalu perempuan itu menawarkan dirinya kepada laki-laki tersebut dan laki-laki tersebut  mengatakan : “Sesungguhya aku takut kepada Allah rabbul alamin”, (3). Seseorang yang hatinya tertambat di masjid-masjid,
 
 (4). Seseorang yang mempelajari al-Qur’an sejak muda dan terus dibacanya sampai tua, (5). Seseorang  yang merahasiakan sedekahnya sehingga apa yang diberikan oleh tangan kanannya tidak diketahui oleh tangan kirinya, (6). Seseorang yang ingat kepada Alah (dzikrullah) di tengah-tengah orang banyak sambil melelehkan air matanya karena takut kepada Allah, (7). Seseorang bertemu orang lain lalu dia mengatakan : Aku mencintaimu karena Allah, yang disambut oleh temannya itu : Akupun mencitaimu karena Allah”. (HR Baihaqi, dalam Syu’abul Iman).
-
- 
 
 Hadits di atas yang menjadikan seorang remaja bernama Syarif selalu bersemangat untuk memakmurkan masjid. Syarif termotivasi untuk mendapatkan salah satu keutamaan dari tujuh golongan tersebut.
 
@@ -691,8 +689,6 @@ Masa muda merupakan masa sempurnanya pertumbuhan fisik dan kekuatan seorang manu
 “*Tidakkah mereka itu yakin bahwa sesungguhnya mereka akan dibangkitkan pada suatu hari yang besar (dahsyat), (yaitu) hari (ketika) manusia berdiri menghadap Rabb semesta alam (Allah Ta’ala*)” (QS al-Muthaffifiin: 4-6).
 
 Sementara itu, Rasulullah *shallallahu ‘alaihi wa sallam* bersabda, “Tidak akan bergesar kaki seorang manusia dari sisi Allah, pada hari kiamat (nanti), sampai dia ditanya (dimintai pertanggungjawaban) tentang empat (perkara): tentang umurnya untuk apa dihabiskannya, masa mudanya digunakan untuk apa, hartanya dari mana diperoleh dan ke mana dibelanjakan, serta bagaimana dia mengamalkan ilmunya.”
-
- 
 
 Akan tetapi, bersamaan dengan itu, masa muda adalah masa yang penuh dengan godaan untuk memperturutkan hawa nafsu. Seorang pemuda yang sedang dalam masa pertumbuhan fisik maupun mental banyak mengalami gejolak dalam pikiran maupun jiwanya. Keadaan ini sering menyebabkan pemuda mengalami keguncangan dalam hidup dan berusaha sekuat tenaga untuk melepaskan diri dari berbagai masalah tersebut. >> \[Foto: dian basuki]
 
