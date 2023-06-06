@@ -6,7 +6,7 @@ description: Masa muda merupakan masa sempurnanya pertumbuhan fisik dan kekuatan
   yang seharusnya dimanfaatkan dengan sebaik-sebaiknya untuk amal kebaikan.
 slug: ghufran-hari-kiamat
 pubDate: 2023-06-05T13:42:40.867Z
-author: FEATURE oleh Ghufran al Khaier R, Mahasiswa Prodi KPI STAI Daarut
+author: FEATURE oleh GHUFRAN al KHAIER R, Mahasiswa Prodi KPI STAI Daarut
   Tauhiid Bandung
 tags:
   - FEATURE
