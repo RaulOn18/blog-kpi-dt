@@ -6,7 +6,7 @@ description: "Menjadi perempuan sholehah dan benar-benar menjaga diri bukanlah
   taatnya karena kecintaannya kepada Tuhannya. "
 slug: zahra-isnaini-remaja-bercadar
 pubDate: 2023-06-06T09:53:18.439Z
-author: FEATURE oleh ZAHRA ISNAINI, Mahasiswa Prodi KPI STAI Daarut Tauhiid Bandung
+author: FEATURE oleh ZAHRA ISNAINI, Mahasiswi Prodi KPI STAI Daarut Tauhiid Bandung
 tags:
   - FEATURE
 heroImage: /post/perempuan-berhijab.jpg
