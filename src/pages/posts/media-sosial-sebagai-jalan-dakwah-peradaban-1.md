@@ -8,7 +8,7 @@ pubDate: 2023-06-05T09:43:21.438Z
 author: "OPINI oleh BUDI HAFIDUDIN, Mahasiswa Prodi KPI STAI Daarut Tauhiid "
 tags:
   - OPINI
-heroImage: /post/masjid-dt-bandung.jpeg
+heroImage: /post/social-media-concept-with-smartphone.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
