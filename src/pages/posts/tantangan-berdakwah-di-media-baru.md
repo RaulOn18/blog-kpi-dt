@@ -6,7 +6,7 @@ description: Akun sosial media yang kalian gunakan bisa menjadi ladang untuk
   konten-konten yang baik.
 slug: hesti-dakwah-media-baru
 pubDate: 2023-06-05T14:28:17.609Z
-author: OPINI oleh Hesti Fauziah, Mahasiswa Prodi KPI STAI Daarut Tauhiid Bandung
+author: OPINI oleh HESTI FAUZIAH, Mahasiswa Prodi KPI STAI Daarut Tauhiid Bandung
 tags:
   - OPINI
 heroImage: /post/laila-tahsin-medsos.jpg
