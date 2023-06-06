@@ -5,7 +5,7 @@ description: Marilah kita jadikan media sosial sebagai sarana dakwah peradaban
   dan menjunjung tinggi nilai-nilai keislaman.
 slug: budihafidudin-medsos-jalan-peradaban
 pubDate: 2023-06-05T09:43:21.438Z
-author: "OPINI oleh Budi Hafidudin, Mahasiswa Prodi KPI STAI Daarut Tauhiid "
+author: "OPINI oleh BUDI HAFIDUDIN, Mahasiswa Prodi KPI STAI Daarut Tauhiid "
 tags:
   - OPINI
 heroImage: /post/masjid-dt-bandung.jpeg
