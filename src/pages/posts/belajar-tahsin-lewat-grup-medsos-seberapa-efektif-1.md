@@ -5,7 +5,7 @@ description: Media sosial kini jadi pilihan untuk belajar berbagai aspek agama,
   termasuk Tahsin. Seberapa efektif sarana ini?
 slug: laila-medsos-tahsin
 pubDate: 2023-06-05T11:40:18.244Z
-author: OPINI oleh Lailatul Qodriah, Mahasiswa Prodi KPI STAI Daarut Tauhiid
+author: OPINI oleh LAILATUL QODRIAH, Mahasiswa Prodi KPI STAI Daarut Tauhiid
 tags:
   - OPINI
 heroImage: /post/media-baru.jpg
