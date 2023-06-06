@@ -6,7 +6,7 @@ description: Di lingkungan Daarut Tauhiid terdapat beberapa program pendidikan
   belajar bagi siapa saja yang berniat menata dan memperbaiki hati.
 slug: rahma-daurah-qalbiyah
 pubDate: 2023-05-01T00:00:26.006Z
-author: "FEATURE oleh Rahma Seftiani Fauzia, Mahasiswa Prodi KPI STAI Daarut Tauhiid "
+author: "FEATURE oleh RAHMA SEFTIANI FAUZIA, Mahasiswa Prodi KPI STAI Daarut Tauhiid "
 tags:
   - FEATURE
 heroImage: /post/rahma-feature.jpg
