@@ -10,14 +10,14 @@ tags:
   - OPINI
 heroImage: /post/20180905_052846.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ heroImage: /post/20180905_052846.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ heroImage: /post/20180905_052846.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -667,7 +667,7 @@ heroImage: /post/20180905_052846.jpg
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -683,6 +683,6 @@ Secara pribadi, saya pun pernah mengalami perlakuan yang menyiratkan sikap *Isla
 
             Dikutip dari web *jalan damai oleh rufi taurisia*, cara menghadapi islamophobia yang sudah kronis  bisa kita tiru dari akhlak mulia yang dicontohkan oleh Rasulullah SAW, yakni dengan cara berdakwah dan mengenalkan Islam kepada pembenci Islam. Rasulullah SAW bukan saja menghadapi *Islamophobia,* tetapi sudah menerima ancaman fisik. Begitu banyak cacian yang diterima oleh Rasulullah SAW kala itu. Rasulullah SAW tidak pernah membalasnya dengan cacian. Rasulullah SAW justru mengambil sikap baik dengan cara memperkenalkan Islam kepada mereka yang membenci Islam dan pemeluknya.
 
-Banyak cerita tentang mereka yang membenci Rasulullah kemudian justru memilih masuk Islam. Apa kata kuncinya? Akhlak Rasulullah SAW dalam menampilkan ajaran Islam sangat anggun. Mereka terpukau dengan sikap dan tindakan Nabi yang memanusiakan manusia. Akhlak Nabi  mampu menembus relung  hati mereka yang membenci Islam. Umat Islam tidak perlu memberikan banyak dalil tentang Islam, cukup menampilkan akhlak mulia sebagai bagian dari perangai muslim. >> 
+Banyak cerita tentang mereka yang membenci Rasulullah kemudian justru memilih masuk Islam. Apa kata kuncinya? Akhlak Rasulullah SAW dalam menampilkan ajaran Islam sangat anggun. Mereka terpukau dengan sikap dan tindakan Nabi yang memanusiakan manusia. Akhlak Nabi  mampu menembus relung  hati mereka yang membenci Islam. Umat Islam tidak perlu memberikan banyak dalil tentang Islam, cukup menampilkan akhlak mulia sebagai bagian dari perangai muslim. >> \[foto: dian b]
 
 <!--EndFragment-->
