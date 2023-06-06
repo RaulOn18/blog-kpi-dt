@@ -2,7 +2,7 @@
 layout: ../../layouts/BlogPost.astro
 title: Banyak Jalan Belajar Membaca Al-Qur'an
 description: Dengan mempelajari tahsin kita ikut menjaga keaslian al-Qur’an, dan
-  paham akan memahami pesan serta petunjuk yang Allah berikan kepada umatnya
+  akan mampu memahami pesan serta petunjuk yang Allah berikan kepada umatnya
   lewat kitab suci al-Qur’an.
 slug: gina-tahsin-medsos
 pubDate: 2023-06-06T15:43:31.437Z
@@ -12,13 +12,13 @@ tags:
   - OPINI
 heroImage: /post/muslims-reading-from-quran.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +57,9 @@ heroImage: /post/muslims-reading-from-quran.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +638,9 @@ heroImage: /post/muslims-reading-from-quran.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -667,13 +667,15 @@ heroImage: /post/muslims-reading-from-quran.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Membaca al-Qur’an adalah salah satu kewajiban bagi seluruh umat Islam. Seperti yang telah difirmankan Allah SWT, bahwa setiap umat muslim dapat melantunkan atau membaca ayat-ayat al-Qur’an. Namun, dalam membaca al-Qur’an pun terdapat cara-cara dan ketentuan hukum-hukum dalam membacanya yang dinamakan hukum *tajwid*. Ikhtiar mempelajari hukum-hukum *tajwid* itu disebut sebagai *tahsin*, yang tujuannya ialah ntuk menyempurnakan bacaan ketika melantunkan ayat-ayat Allah SWT. Kata *tahsin* sendiri memiliki arti memperbaiki, memperkaya, atau menguatkan. Karena itu, *tahsin* dapat diartikan sebagai menyempurnakan dan menjaga hukum-hukum keaslian dalam al-Qur’an.
 
-Mempelajari *tahsin* bagi setiap umat islam itu sangat dianjurkan. Hukum Secara teoritis, hukumnya adalah  *fardhu kifayah*, sedangkan secara kaidah ilmu *tajwid* itu hukumnya *fardhu ‘ain*.  Tujuan lain mempelajari *tahsin* yakni agar ketika kita mampu membaca al-Qur’an secara tepat, sesuai artinya, dan tidak salah pemaknaannya. Tahsin merupakan salah satu cermin keimanan seorang umat muslim terhadap kitab suci al-Qur’an yang diturunkan oleh Allah kepada Rasulullah Muhammad.  Dengan mempelajari tahsin kita ikut menjaga keaslian al-Qur’an, dan paham akan memahami pesan serta petunjuk yang Allah berikan kepada umatnya lewat kitab suci al-Qur’an. Dengan belajar *tahsin*, kita insyaa Allah akan mampu membaca ayat al-Qur’an secara tepat, karena pengucapannya memang harus tepat dan tidak boleh salah. Kesalahan dalam pengucapan akan menimbulkan arti atau makna yang berbeda. Karena itu, kita harus belajar *tahsin* terlebih dahulu sebelum kita dapat membaca dan juga mengahafal al-Qur’an.
+Mempelajari *tahsin* bagi setiap umat islam itu sangat dianjurkan. Hukum Secara teoritis, hukumnya adalah  *fardhu kifayah*, sedangkan secara kaidah ilmu *tajwid* itu hukumnya *fardhu ‘ain*.  Tujuan lain mempelajari *tahsin* yakni agar ketika kita mampu membaca al-Qur’an secara tepat, sesuai artinya, dan tidak salah pemaknaannya. Tahsin merupakan salah satu cermin keimanan seorang umat muslim terhadap kitab suci al-Qur’an yang diturunkan oleh Allah kepada Rasulullah Muhammad. 
+
+Dengan mempelajari tahsin kita ikut menjaga keaslian al-Qur’an, dan akan mampu memahami pesan serta petunjuk yang Allah berikan kepada umatnya lewat kitab suci al-Qur’an. Dengan belajar  *tahsin*, kita insyaa Allah akan mampu membaca ayat al-Qur’an secara tepat, karena pengucapannya memang harus tepat dan tidak boleh salah. Kesalahan dalam pengucapan akan menimbulkan arti atau makna yang berbeda. Karena itu, kita harus belajar *tahsin* terlebih dahulu sebelum kita dapat membaca dan juga mengahafal al-Qur’an.
 
 Lalu kepada siapakah kita harus belajar *tahsin* dan mendalami hukum-hukum *tajwid*? Dalam mempelajari *tahsin*, kita dapat meminta ilmunya pada guru, ustadz/ustadzah, dan orang-orang yang mumpuni dan bisa dikatakan ahli dan paham dalam membaca al-Qur’an. Biasanya mereka telah memiliki pengalaman dan pendidikan dalam belajar *tahsin*. Kita dapat belajar secara sendiri akan tetapi lebih baik mempelajarinya bersama orang yang sudah memahami ilmu ini. Dalam tahsin kita mempelajari ilmu tajdwid, yang meliputi antara lain hukum tajwid, bunyi, harakat, huruf, dan lainnya.
 
