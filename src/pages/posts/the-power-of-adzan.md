@@ -5,7 +5,7 @@ description: Menghentikan kegiatan dan segera bergegas melaksanakan shalat
   ketika adzan berkumandang adalah salah satu upaya kita mengutamakan Allah
 slug: vika-power-adzan
 pubDate: 2023-06-05T12:40:21.277Z
-author: FEATURE oleh Yonas Vika Vilova, Mahasiswa Prodi KPI STAI Daarut Tauhiid Bandung
+author: FEATURE oleh YONAS VIKA VILOVA, Mahasiswa Prodi KPI STAI Daarut Tauhiid Bandung
 tags:
   - FEATURE
 heroImage: /post/dt-azan-vika-2.jpg
