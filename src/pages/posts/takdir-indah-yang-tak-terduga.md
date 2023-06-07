@@ -11,16 +11,16 @@ tags:
   - FEATURE
 heroImage: /post/rahma-feature.jpg
 ---
-<!--\[if !mso]>
+<!--\\[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
 o\:* {behavior:url(#default#VML);}
 w\:* {behavior:url(#default#VML);}
 .shape {behavior:url(#default#VML);}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -60,9 +60,9 @@ w\:* {behavior:url(#default#VML);}
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -641,9 +641,9 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,16 +663,16 @@ w\:* {behavior:url(#default#VML);}
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapedefaults v:ext="edit" spidmax="1027"/>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><!\[endif]-->
+ </o:shapelayout></xml><!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -682,7 +682,7 @@ Di lingkungan Daarut Tauhiid terdapat beberapa program pendidikan pesantren non-
 
 Wanita kelahiran Garut yang masih berumur 21 tahun ini harus dihadapkan dengan takdir yang tidak pernah direncanakan, bahkan tidak ia inginkan sebelumnya. Berawal dari ajakan seorang teman untuk menjadi musyrifah di salah satu pesantren besar di Bandung, Teh Dian tertarik untuk mengambil tawaran tersebut. Sebelumnya, Teh Dian berpikir akan membimbing santri yang masih remaja, seperti santri tingkat SMP, SMA, atau SMK, namun ternyata semua di luar dugaan. Teh Dian beliau harus membimbing santri berkisar umur 17-40 tahun, yang kebanyakan berumur 20 tahun ke atas. Hal ini menjadi tantangan sendiri baginya karena sebelumnya ia hanya berpengalaman mengurus dan membimbing anak-anak usia SD.
 
-<!--\[if gte vml 1]><o:wrapblock><v:shapetype
+<!--\\[if gte vml 1]><o:wrapblock><v:shapetype
   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
   <v:stroke joinstyle="miter"/>
@@ -702,7 +702,7 @@ Wanita kelahiran Garut yang masih berumur 21 tahun ini harus dihadapkan dengan t
   </v:formulas>
   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
   <o:lock v:ext="edit" aspectratio="t"/>
- </v:shapetype><v:shape id="Image1" o:spid="_x0000_s1026" type="#_x0000\_t75"
+ </v:shapetype><v:shape id="Image1" o:spid="_x0000_s1026" type="#_x0000\\_t75"
   style='position:absolute;left:0;text-align:left;margin-left:184.5pt;
   margin-top:278.25pt;width:234pt;height:125.25pt;z-index:-251657216;
   visibility:visible;mso-wrap-style:square;mso-width-percent:0;
@@ -712,20 +712,20 @@ Wanita kelahiran Garut yang masih berumur 21 tahun ini harus dihadapkan dengan t
   mso-position-vertical:absolute;mso-position-vertical-relative:page;
   mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;
   mso-height-relative:margin'>
-  <v:imagedata src="file:///C:/Users/MUTIA\_~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"
+  <v:imagedata src="file:///C:/Users/MUTIA\\_~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"
    o:title=""/>
   <o:lock v:ext="edit" aspectratio="f"/>
   <w:wrap type="topAndBottom" anchorx="page" anchory="page"/>
- </v:shape><!\[endif]--><!--\[if !vml]-->
+ </v:shape><!\\[endif]--><!--\\[if !vml]-->
 
 |     |                                                                                     |
 | --- | ----------------------------------------------------------------------------------- |
 |     |                                                                                     |
 |     | ![](file:///C:/Users/MUTIA_~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) |
 
-<!--\[endif]-->
+<!--\\[endif]-->
 
-<!--\[if gte vml 1]></o:wrapblock><!\[endif]-->
+<!--\\[if gte vml 1]></o:wrapblock><!\\[endif]-->
 
 \
 Program DQ biasanya diminati oleh mereka yang ingin hijrah dalam kebaikan, orang yang benar-benar ingin memperbaiki hati, dan orang yang ingin mengisi waktu luangnya selama 1 bulan untuk belajar agama. Program ini juga diikuti oleh mereka yang kesehatan mentalnya kurang baik. Bergabung di angkatan ke-99 Daurah Qalbiyah, Teh Dian dipertemukan dengan peserta yang mengidap gangguan kesehatan mental *bipolar*. Di tempat dan lingkungan yang baru inilah, Teh Dian mengenal bipolar. Tidak mudah baginya untuk memahami gangguan bipolar ini maupun memahami keadaan santri tersebut. Karena terlampau memikirkan soal ini, ia jatuh sakit dan bahkan sempat ingin menyerah. Namun kebiasaan Teh Dian yang selalu melibatkan semua urusannya dengan Allah telah membuatnya mampu menerima semua ketetapan dari Allah dengan rasa nyaman dan tenang. Bahkan Teh Dian merasa bersyukur berada di lingkungannya saat ini, salah satunya karena memperoleh pekerjaan yang bukan hanya dunia yang didapatkan, namun akhirat pun dapat.
@@ -736,6 +736,6 @@ Meskipun baru 12 hari menjalani program tersebut, namun Nami mulai merasakan ban
 
 Lantas apa yang dirasakan Teh Dian setelah menjalani peran sebagai musyrifah?, "Lingkungan ini menuntut saya untuk menjadi pribadi yang lebih baik dari sebelumnya, sebelum saya menuntut mereka untuk menjadi baik,” kata Teh Dian, “Selain itu, saya juga banyak mendapatkan pelajaran dari mereka. Bertemunya saya dengan mereka menjadi salah satu jalan dari Allah untuk proses pendewasaan saya.”
 
-Menjadi seorang musyrifah memang bukan hal yang mudah, namun dengan keyakinan yang kuat kepada Allah, semua terasa mudah untuk dijalani. Begitupun dengan Nami, yang harus menjadi seorang santri. Walaupun itu tidak terbayangkan sebelumnya, namun jika dijalani dengan penuh rasa syukur, semua terasa mudah.
+Menjadi seorang musyrifah memang bukan hal yang mudah, namun dengan keyakinan yang kuat kepada Allah, semua terasa mudah untuk dijalani. Begitupun dengan Nami, yang harus menjadi seorang santri. Walaupun itu tidak terbayangkan sebelumnya, namun jika dijalani dengan penuh rasa syukur, semua terasa mudah. >> \[Foto: Rahma]
 
 <!--EndFragment-->
