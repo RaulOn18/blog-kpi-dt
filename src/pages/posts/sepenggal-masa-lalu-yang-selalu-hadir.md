@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Sepenggal Masa Lalu yang Selalu Hadir
-description: Kami hidup di tempat yang penuh dengan konflik dan permasalahan,
-  yang membuat hidup kami sedikit abu-abu, bahkan sedikit menghitam, orang
-  bilang. Namun alhamdulillah, saya masih memiliki sahabat yang bisa dijadikan
-  alasan saya untuk tetap bahagia dan baik-baik saja.
+title: Sepenggal Masa Lampau yang Selalu Hadir
+description: Kami hidup di tempat yang penuh konflik dan permasalahan, yang
+  membuat hidup kami sedikit abu-abu, bahkan sedikit menghitam, orang bilang.
+  Namun alhamdulillah, saya masih memiliki sahabat yang bisa dijadikan alasan
+  saya untuk tetap bahagia dan baik-baik saja.
 slug: yiyi-masa-lalu
 pubDate: 2023-06-07T03:10:55.453Z
 author: FEATURE oleh YIYI MULZAM KAMIL, Mahasiswa Prodi KPI STAI Daarut Tauhiid Bandung
