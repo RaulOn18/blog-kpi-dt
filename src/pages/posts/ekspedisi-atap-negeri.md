@@ -12,7 +12,7 @@ tags:
   - Feature
 heroImage: /post/agung-mapay-lembuar.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ heroImage: /post/agung-mapay-lembuar.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ heroImage: /post/agung-mapay-lembuar.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -653,80 +653,44 @@ heroImage: /post/agung-mapay-lembuar.jpg
 	font-family:"Arial",sans-serif;
 	mso-ansi-language:#0021;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Bulan september, menandai sebuah awal musim yang didominasi dengan guyuran air hujan. Bulan baru yang memberikan semangat baru mengalihkan  semangat dalam memperingati hari kemerdekaan. Semangat baru untuk Asep, Awal September. Percikan semangat usai para pemuda merayakan hari jadi bangsa Indonesia telah membekas. Dengan bekas bekas semangat itu, sebagian pemuda menyatukan sebuah  pemikiran untuk bersua dengan saudara-saudara sebangsanya yang berada diatap negri (pelosok).
 
- 
-
 Para pemuda, dengan raga yang kuat dan jiwa yang membara, dibarengi dengan pemikiran yang masih misteri di otak memunculkan kreatifitas.  mencoba untuk melakukan perencanaan kegiatan yang manfaat. Menandakan bahwa pemikiran kecerdasan pemuda tersebut dibarengi dengan kasih sayang Sang Kholiq.
-
- 
 
 Dengan ridho Rabb-Nya, para pemuda itu merancang kegiatan kepemudaan yang melibatkan pemuda-pemudi daerah Bandung dan sekitarnya. Respon positif dari berbagai kalangan, mendorong kegiatan itu terwujud.
 
- 
-
 *Mapay Lembur 2022,* adalah judul besar kegiatan itu. Balik lagi ke bulan September, waktu yang tepat untuk acara tersebut. Karena para pemuda-pemudi, mahasiswa-mahasiswi berada pada waktu libur semesternya. *Lembur untuk mapay lembur,* hehe. Judul itu diambil dari bahasa sunda. *Mapay* artinya jelajah atau bahasa gaulnya adventure. Sedangkan lembur itu bukan yang dimaksud melebihi jam kerja. *Lembur* dalam bahasa Sunda artinya pelosok atau pedesaan. Seperti dalam judul besar, kegiatan ini maknanya melibatkan pelosok pedesaan. Kegiatan ini dipelopori oleh pemuda  *founder* yayasan Wakaf Qur'an Adventure. Tentunya, Yayasan berbasis  komunitas Wakaf Qur'an Adventure yang menjadi wadah untuk kegiatan *Mapay Lembur* ini. Yayasan ini bergerak di bidang sosial, pendidikan dan kemanusiaan.
-
- 
 
 Poster dengan judul besar saja tanpa struktur kepanitiaan nya pun disebarkan. Media sosial menjadi sarana utama penyebaran. Mulai dari WAG (WhatsApp Group) berbagai komunitas, *story* berbagai sosial media, hingga *feed* instagram akun wakaf Qur'an Adventure menjadi titik penyebaran informasi. Artinya WQA ( Wakaf Qur'an Adventure ) mengadakan *open volunteer* untuk yang ingin bergabung dalam kegiatan tersebut.
 
- 
-
 Informasi itu pun sampai ke para pemuda aktivis sosmed. "Wahh, ini pasti kegiatan seru dan bermanfaat nihh." Ujar salah satu pemuda aktivis sosmed tersebut. Pemuda itu pun membulatkan tekad untuk mendaftarkan diri dan mengikuti informasi yang diberikan. Pemuda itu mengajak teman-temannya  untuk bergabung dalam kegiatan *Mapay Lembur*. Sampai pada titik pemuda itu direkrut menjadi *volunteer*.
-
- 
 
 Kepanitiaan pun disusun dengan berbagai pemuda yang ada di Bandung, tangerang, Garut, dan sekitarnya, bahkan dari turki. Bahasan yang didapat menjadi langkah awal untuk para pemuda mengembangkan rincian kegiatan *Mapay Lembu*r ini. Persiapan dilakukan untuk mematangkan kegiatan.
 
- 
-
- 
-
 Di 8 September 2022 Mapay Lembur ke Tasikmalaya pun mulai dilakukan. Dengan agenda selama 2 Hari, weekend pekan perdana bulan September. Berbekal kendaraan, peralatan, alat kebersihan, alat dekorasi, puluhan Al Qur'an dalam beberapa dus, serta semangat, para pemuda berkumpul di satu titik untuk mengokohkan kembali niat lurusnya dalam silaturahmi ke pelosok dan acara ini dipimpin oleh salah seorang pemuda senior untuk berdoa, memanjatkan puji serta syukur kepada Rabb semesta agar perjalanan dimudahkan, dilancarkan dan selamat sampai tujuan.
-
- 
 
 Sangat terasa sekali lika liku perjalanan ini. Dari awalnya pemandangan perkotaan dengan kemacetan di dalamnya, panas asap berbagai transportasi baik kendaraan umum maupun pribadi, berlanjut dengan pemukiman pabrik yang cukup gersang dan  ditandai dengan awan sedikit gelap berasal dari kumpulan asap asap pabrik. Hingga 3 jam perjalanan dilakukan, para pemuda mulai merasakan hawa sejuk dari pepohonan besar, jalan yang sedikit sepi tanpa kemacetan. Tempat perdagangan dapat dihitung, hanya beberapa, tidak sampai puluhan. Sembari ıstirahat sejenak, para pemuda mencicipi jajanan di salah satu warung di hilir jalan. Para pemuda menyebutnya warung Drive thru, hehe. Kemudian para pemuda melanjutkan perjalanannya, jalanan mulai terasa menantang, jalan setapak dengan dasar hanya bebatuan dan tanah merah menjadi pemandangan baru, pertanda tempat tujuan sudah dekat.
 
- 
-
 Singkatnya, tasikmalaya menyambut kedatangan para pemuda tersebut. Sebuah desa di atap negeri, gunung sari yang dikenal dengan desa Sukasari kecamatan Puspahiang menjadi tempat singgah sementara para pemuda mengeksekusi  rancangan kegiatan mapay lembur itu.
-
- 
 
 Tepatnya di siang menjelang sore, para pemuda bersilaturahmi ke salah satu tokoh masyarakat untuk konfirmasi melaksanakan berbagai kegiatan, sekaligus konsultasi untuk tempat para pemuda singgah juga tempat mana saja yang akan menjadi acuan untuk berkegiatan. Akhirnya masjid dan sekolah menjadi tempat yang diizinkan untuk  mengeksekusi kegiatan *mapay lembur.*
 
- 
-
 Berbagai kegiatan dipersiapkan. Hari Sabtu, setelah ba'da ashar para pemuda memulai kegiatan pertamanya yaitu merenovasi masjid. Cat berwarna putih menjadi warna dasar untuk masjid tersebut. Hijau, warna lain yang ditampakkan. Nuansa masjid yang berwarna abu-abu menjadi hijau. Sesuai dengan ciri khas warna komunitas WQA. Di Hari Sabtu itu pengecatan dikerjakan sangat lama, karena hanya dengan beberapa alat dan bahan seadanya. Mau beli pun jauh dari toko-toko bahan dan alat. Pengecatan selesai larut malam, sekitar jam setengah dua.
-
- 
 
 Di Sore harinya, sebagian volunteer melakukan survei ke beberapa rumah warga yang membutuhkan, untuk berbagi sembako. Mayoritas warga di sana lansia. Hanya ada sedikit pemuda, membuat para pemuda itu "bagai anak sendiri" ujar salah satu warga, bahkan beberapa warga yang ditemui. Moment haru terasa, melihat sosok seseorang dimasa tua nya hanya hidup sendiri, tanpa anak dan pendamping hidup, sebatang kara. Tangisan haru warga menetes, ketika volunteer memberikan beberapa sembakonya. Puji syukur dipanjatkan bersama sama. Kegiatan pun dilanjutkan dengan kegiatan pokok komunitas yaitu berbagi Al Quran ke desa lain. jarak 2 km dengan jalan yang ekstrim ditempuh untuk sampai ke desa lain. Hingga tak dirasa waktu menjelang Maghrib. Volunteer pun bergegas kembali ke masjid.
 
- 
-
 Saat menginjak malam hari, hawa dingin sangat menusuk ke dalam tubuh para pemuda. Disebabkan mereka berada di dataran tinggi. Untuk menghangatkan tubuhnya, mereka melakukan berbagai hal. Ada yang banyak makan, karena warga menyediakan banyak makanan disana. Ada yang menggunakan jaket tebal bahkan Dobel. Ada juga yang meningkatkan aktivitas nya agar tubuh tetap bergerak dan memberikan kehangatan. 
-
- 
 
 Dimalam itu tidak hanya kegiatan renovasi masjid yang berlangsung, tapi juga ada kegiatan lain. Mulai dari Shalat berjamaah Maghrib, dilanjut dengan Maghrib mengaji, dengan sasaran anak anak yang berada di desa tersebut. Selanjutnya, usai berjamaah shalat isya, mulai nih seluruh warga desa Puspahiang dilibatkan untuk mengikuti kegiatan tabligh Akbar yang diadakan WQA sekaligus pembukaan kegiatan (*launching*). Seluruh warga antusias mengikuti kegiatan tersebut. Sebelum kegiatan kegiatan Akbar tersebut sempat juga salah satu *volunteer* mengisi kultum (kuliah tujuh menit) dengan tema budaya BRTT ( Bersih Rapih Tertib Teratur). Tujuannya adalah untuk lebih memberikan pemahaman kepada warga Puspahiang tentang kepedulian dan kepekaan terhadap lingkungan sekitar. Kegiatan malam itu pun diakhiri dengan makan bersama. Kebersamaan dan kepedulian warga dengan *volunteer* sangat terasa disana. Mereka makan satu tempat bersama sama dengan lauk seadanya. Namun sangat amat terasa nikmat.
 
- 
-
 Hari yang baru di desa Puspahiang, satu hari sudah para pemuda berkegiatan disana. Agenda berikutnya menunggu di hari Minggu itu. Ya, runtutan kegiatan itu terbagi, ada yang di masjid dan di sekolahan. Karena agenda sangat padat. Di Masjid *volunteer* melakukan kembali kegiatan renovasi dan dibantu oleh volunteer lain yang baru datang, yaitu dari komunitas GEMAS MASJID. Tidak hanya renovasi tapi juga bersih bersih masjid. Sebuah komunitas yang melekat dengan memakmurkan masjid.
-
- 
 
 Sedangkan di sekolah dan lapangan terdapat beberapa kegiatan. Di Kelas, terdapat kegiatan pengecekan kesehatan dan pembagian vitamin. Di lapangan, divisi acara mengeksekusi rangkaian acaranya. Kegiatan diawali dengan senam pagi dengan dipimpin oleh salah satu pemuda senior. Setelah senam, kegiatan berikutnya adalah memanah dengan jarak kurang lebih 8 meter. Games kelompok berhadiah juga dilakukan setelah kegiatan memanah itu. Keseruan pecah di pagi itu, seluruh semangat anak anak, pemuda dan orang tua bersatu memeriahkan acara.
 
- 
-
-Tidak terasa, waktu mendekati adzan Dzuhur. Seluruh kegiatan sudah dilakukan, para pemuda bergegas kembali untuk pulang. Kegiatan diakhiri dengan swafoto bersama. Kegiatan itu menyimpan bahagia tersendiri bagi masing masing pemuda.  Pesan kesan baru memenuhi memori kehidupan mereka. Kasih sayang, kebersamaan, dan kepedulian timbul mempererat ukhuwah seagama dan sebangsa. »
+Tidak terasa, waktu mendekati adzan Dzuhur. Seluruh kegiatan sudah dilakukan, para pemuda bergegas kembali untuk pulang. Kegiatan diakhiri dengan swafoto bersama. Kegiatan itu menyimpan bahagia tersendiri bagi masing masing pemuda.  Pesan kesan baru memenuhi memori kehidupan mereka. Kasih sayang, kebersamaan, dan kepedulian timbul mempererat ukhuwah seagama dan sebangsa. » [Foto: Agung Saputra}
 
 <!--EndFragment-->
