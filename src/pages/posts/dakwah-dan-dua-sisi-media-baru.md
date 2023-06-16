@@ -6,7 +6,8 @@ description: Di satu sisi berdakwah di media baru menjadi lebih mudah, namun di
   fitnah
 slug: siti-annisa-dakwah-media-baru
 pubDate: 2023-06-16T03:31:07.553Z
-author: OPINI oleh SITI ANNISA NURUL ALIAH
+author: OPINI oleh SITI ANNISA NURUL ALIAH, Mahasiswi Prodi KPI STAI Daarut
+  Tauhiid Bandung
 tags:
   - Opini
 heroImage: /post/siti-annisa-media-baru.jpg
