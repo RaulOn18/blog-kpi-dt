@@ -11,13 +11,13 @@ tags:
   - Opini
 heroImage: /post/siti-annisa-media-baru.jpg
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ heroImage: /post/siti-annisa-media-baru.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ heroImage: /post/siti-annisa-media-baru.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ heroImage: /post/siti-annisa-media-baru.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -686,6 +686,6 @@ Karena itulah, seorang da’i harus mampu menggunakan metode yang tepat saat ber
 
 Jadi, selain berdampak positif, berdakwah di media sosial juga tidak lepas dari berbagai tantangan yang harus dilalui oleh pendakwah. Berdakwah di media sosial memang efektif dan berpotensi lebih menarik. Di sisi lain, tantangan tadi membuat para da’i harus lebih bijak dan tepat menentukan strategi dakwah di era digital ini.
 
-Para da'i harus bisa mengikuti perkembangan zaman dan memahami kaum milenial pada saat ini, sehingga mampu berkomunikasi dengan baik dan beradaptasi dengan mad'u. Contohnya, ustadz Hanan Attaki yang dijuluki pendakwah masa kini. Gaya khasnya membuat pesan dakwah yang disampaikan mudah diterima oleh mad'u. Ia menggunakan kata-kata yang lembut, hati-hati dalam berucap, dan serta penuturan yang mudah dipahami, agar dapat membekas di hati para mad'u. Strategi dakwah yang tepat diperlukan karena di era digital ini apabila seseorang tidak menyukai dakwah seorang da’i, maka dengan mudah dia mampu menolak maupun mencibir da'i tersebut. >>
+Para da'i harus bisa mengikuti perkembangan zaman dan memahami kaum milenial pada saat ini, sehingga mampu berkomunikasi dengan baik dan beradaptasi dengan mad'u. Contohnya, ustadz Hanan Attaki yang dijuluki pendakwah masa kini. Gaya khasnya membuat pesan dakwah yang disampaikan mudah diterima oleh mad'u. Ia menggunakan kata-kata yang lembut, hati-hati dalam berucap, dan serta penuturan yang mudah dipahami, agar dapat membekas di hati para mad'u. Strategi dakwah yang tepat diperlukan karena di era digital ini apabila seseorang tidak menyukai dakwah seorang da’i, maka dengan mudah dia mampu menolak maupun mencibir da'i tersebut. >> \[sumber foto: pixabay.com]
 
 <!--EndFragment-->
