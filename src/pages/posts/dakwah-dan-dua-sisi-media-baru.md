@@ -9,7 +9,7 @@ pubDate: 2023-06-16T03:31:07.553Z
 author: OPINI oleh SITI ANNISA NURUL ALIAH
 tags:
   - Opini
-heroImage: /post/social-media-concept-with-smartphone.jpg
+heroImage: /post/siti-annisa-media-baru.jpg
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
