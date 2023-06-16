@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: Dakwah dan Dua Sisi Media Baru
+title: Dakwah dalam Dua Sisi Media Baru
 description: Di satu sisi berdakwah di media baru menjadi lebih mudah, namun di
   sisi lain orang juga lebih mudah menyebarluaskan kabar bohong, hoax, serta
   fitnah
